@@ -8,6 +8,7 @@
   Resposta para pergunta 1: Conseguiu implementar todas as funcionalidades propostas? Se não, quais ficaram de fora e por quê?
   
   não. Não consegui fazer o método de aplicar desconto funcionar corretamente. Não consegui colocar no carrinho (tudo passa pelo carrinho, a parte de totais é calculada a partir do carrinho também)
+  não deu tempo de colocar a função de pesquisa. Apesar dela está 100% pronta, devido a erros por conta do pouco tempo de planejamento que eu tive (eu conversei com o senhor). Ademais, vou ter outra prova amanhã, preferi revisar para ela.
 
   - Resposta para pergunta 2: Quais são os principais pontos fortes e fracos do código? Algum trecho do código poderia ser melhorado?
   - 
